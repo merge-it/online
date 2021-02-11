@@ -1,0 +1,513 @@
+Cose / Priorità / Varie / Eventuali / Pinguini
+https://gitpull.it/tag/merge-it/
+@bozzy
+
+######################################################################################## Prossimi Temi, la riunione è sotto
+
+Metti una X accanto agli argomenti che ti interessano maggiormente da affrontare in queste call (per le priorità) e aggungine di nuovi:
+- scegliere un benedetto nome definitivo per queste call XXXXXXXX --> https://gitlab.com/ItalianLinuxSociety/brainstorm/-/issues/17
+- ricambio generazionalex x xxXXX
+Questo problema non va sottovalutato perché spesso i giovani non-lavoratori hanno tempo da spendere durante la mattina e il pomeriggio quindi sono più adatti a attività pomeridiane, però potrebbero risultare meno esperti e quindi meno degni di fiducia.
+https://www.open.online/2019/12/10/disoccupati-non-vuol-dire-inattivi-tutto-quello-che-i-giovani-fanno-per-la-societa-senza-ricevere-compenso/
+- necessità dei nuovi lug a livello di esperienze xXXx
+Forse è necessario una maggiore copertura territoriale.
+- condivisione esperienze e attività tra i vari lug (eventi, materiale, collaborazioni, sviluppi, ...) xXXx
+- attività legate al FLOSS/openness, prima che a Linux, sullo stile LD (un unico giorno per tutta Italia, organizzata localmente da tutte le associazioni interessate). Perché abbiano presa sul pubblico devono un po' subdolamente avere titoli/abstract più "catchy" e magari da "clickbait" ("software gratuiti per la tua produttività") ("come il tuo comune puo risparmare $$$$ soldi grazie al software libero") (Come il software libero può rendere libero la tua prole)
+
+Compito per casa: 3 punti a testa/desiderata su questo documento per il futuro della comunità, con idee e proposte per la prossima riunione
+Quali sono gli obiettivi per il 2020? Nuovi Lug? Nuovi iscritti?
+Ambiente, società e tecnologie open
+Quale marketing per l'open source/Linux/... senza passare al Lato Oscuro
+Come convincere i lug ad integrarsi con la riforma del terzo settore dentro ILS
+Sorprenderli facendo vedere un solo foglio da firmare per integrarsi a ILS. Magari si può fare in modo che sia possibile integrarsi online
+Messagistica istantanea ad uso e cosumo nostro, per varie ed eventuali necessità sincrone (?) (jabber/xmpp, matrix, per far si che anche chi non voglia usare telegram possa usufruirne)
+Un nome più intelligente per le call di sgdsc
+Flossit? (OT: sembra un dentifricio)
+Riunioni libertà informatiche
+Licall? Libertà Informatiche call
+ITOSSC (ITalian OSS Calls, ITFLOSSC per gli amici meno flessibili ahahah)
+IT LIbero (credo che il nome sia abbastanza esplicativo) - Ma sembra il nome di un giornalaccio online 
+             - Libero in se è un aggettivo della lingua italiana, posso farci poco se lo usano anche dei giornalisti mentecatti. "Software Libero" mi sembra che funzioni pure con Libero nel mezzo, quindi...
+Conferenza online per le libertà informatiche (COLI) 
+Il Puntino (che e' come la mia compagna chiama le riunioni periodiche coi colleghi)
+Cittadinanza Digitale Libera
+Definizione/identificazione dell'identità del gruppo allargato (sia inter-nos, che e soprattutto nella sfera/percezione pubblica)
+Associazioni italiane che hanno finalità associative attorno al FLOSS/openness non è sufficiente come definizione? (EV) Sottolineo nuovamente che non la vedo come un'estensione di ILS, ma come una nonuova struttura di associazioni con finalità simili o condivise. Direi che può continuare ad essere un gruppo "informale" almeno fintantoché non ne nascano attività a livello nazionale (cosa che comunque auspico); affronterei il problema della percezione pubblica se si arriva lì e anche se si arriva lì può essere sempre e solo un'insieme di associazioni italiane. - Ti rispondo in chiamata!
+Sono importanti le associazioni che partecipano o i singoli individui che partecipano? - Direi entrambe le cose
+Organismo di riferimento per la scelta delle tecnologie che influenzano direttamente laggente 
+
+Definire obiettivi di questa comunità:
+Vogliamo semplicemente condividere/discutere esperienze e/o idee o vogliamo essere propositivi/produttivi (materiali, attività, eventi)? Per quanto mi riguarda (EV) partirei sicuramente dalla prima, non escludendo forzatamente la seconda ma lasciandola come naturale evoluzione.
+Abbiamo bisogno di strutturarci oltre alle confcall periodiche (sito, calendario attività, social/comunicazione)? (EV) per il momento direi di no.
+Abbiamo bisogno di community management? (EV) qualcuno affermava di sì a prescindere, io penso che se queste riunioni sono "produttive" in termini di scambio idee/produzione di attività la community si mantenga da sola e anzi la gente aderisca senza alcuna necessità di spinta.
+Individuazione dei problemi associativi comuni da discutere:
+Gestione della propria community (ne hai una?) Coincide/è diversa dal numero dei tuoi iscritti? Puoi pensare di far diventare tutti i membri della tua community degli iscritti? Se sì, come?
+Interessamento esterni alle proprie attività (attività pragmatiche e operative anche se defocalizzate rispetto agli obiettivi statutari?)
+Organizzazione degli eventi e delle attività (strumenti, gestione logistica/organizzativa, spazi, contatti con il pubblico)
+Gestione dei social media per una comunicazione efficace
+Ricambio generazionale/avvicendamento negli organi di governo dell'associazione
+Gestione amministrativa delle proprie associazioni, ivi compreso problema Terzo Settore (hai bisogno di essere associazione? In che forma? Devi poter fatturare? Consulenze sullo statuto?)
+Gestione delle public relations vs PA e organizzazioni statali (comuni, province, regioni, ministeri)
+Individuare, acquisire e mantenere una sede per la propria associazione
+Ricordarsi di fare il remainder sui sistemi di comunicazione di ILS
+
+Prossimo appuntamento 11 Febbraio 2020, secondo giovedì del mese, 21:30 - Per il momento ancora all'indirizzo https://meet.jit.si/sgdsc
+
+################################################## Giovedi 11/02/2021
+
+https://gitlab.com/ItalianLinuxSociety/brainstorm/-/issues/17 - Cambio nome per la call mensile di merge-it
+     Sondaggio Telegram
+https://gitlab.com/ItalianLinuxSociety/brainstorm/-/issues/21 - Conferenza primaverile
+https://gitlab.com/ItalianLinuxSociety/brainstorm/-/issues/10 - Istanza Discourse/RocketChat
+     forum.linux.it
+     Stiamo vedendo per l'autenticazione SAML e migrazione di alcune mailing list
+https://gitlab.com/ItalianLinuxSociety/brainstorm/-/issues/3 - Crawler documenti siti dei comuni
+
+#################################################### Giovedì 14 gennaio 2021
+
+https://www.ils.org/2021/01/03/2020-con-ils.html
+https://eventi.merge-it.net/ Piattaforma finita
+https://gitlab.com/ItalianLinuxSociety/brainstorm/-/issues/23 - Mappe http://maps.linux.it/
+https://gitlab.com/ItalianLinuxSociety/brainstorm/-/issues/5 - Template jekyll
+https://gitlab.com/ItalianLinuxSociety/brainstorm/-/issues/17 - Cambio nome per la call mensile di merge-it
+https://gitlab.com/ItalianLinuxSociety/brainstorm/-/issues/21 - Conferenza primaverile
+Come è andata la conf di libreitalia, 70 partecipanti                               
+https://gitlab.com/ItalianLinuxSociety/brainstorm/-/issues/10 - Istanza Discourse/RocketChat
+https://gitlab.com/ItalianLinuxSociety/brainstorm/-/issues/22 - Strumento per sondaggi/moduli in italiano FOSS
+
+######################################################################################## Giovedi 10 dicembre 2020
+
+https://cryptpad.fr/pad/#/3/pad/edit/a5085a74f95ae5da8c36c888f505671b/ Come coinvolgere nuovi partecipanti nel 2020
+Rosario ha detto che settimana prossima prova a mettere su Discourse, ci sentiremo io (Daniele) e lui per la questione SAML
+       https://gitlab.com/ItalianLinuxSociety/brainstorm/-/issues/10
+https://gitlab.com/ItalianLinuxSociety/brainstorm/-/issues/12 - BBB che registra i video per la comunità
+    Piattaforma funzionante, abbiamo fatto il primo incontro online da mesi di LUG Rieti con questo sistema
+    https://eventi-demo.daniele.tech - Piattaforma sperimentale, richiede prove e se le istruzioni sono chiare. Bisognoa decidere come fare il sito anche minimale
+Donazioni di ILS a progetti vari
+    La proposta di Daniele e altri è di vedere i progetti utilizzati da ILS per evitare problemi di parte, casomai valutare se si possono investire su bountysource per dei ticket specifici
+    altra idea di un contributo mensile a qualcuno che si occupa della manutenzione o di mmoderazione su peertube/discourse/rocketchat
+    altra idea pagare una società di marketing (smarketing?) per la grafica nuova di ils
+         la grafica è meno prioritaria
+https://gitlab.com/ItalianLinuxSociety/brainstorm/-/issues/5
+    In arrivo i temi statici per i siti ILS
+https://gitlab.com/ItalianLinuxSociety/brainstorm/-/issues/11
+    Progetti online in cui si può partecipare insieme
+https://gitlab.com/ItalianLinuxSociety/brainstorm/-/issues/14
+    Chiamata alle disponibilità per vari ruoli
+Conferenza LibreItalia ( https://conference.libreitalia.org/2020/ )
+      Il 19 niente istanza BBB che serve a loro
+      Dovremo fare delle prove di stress e anche con i relatori
+      Ma soprattuto prove sulla qualità del video/audio!
+Questione video.linux.it, servono delle regole di uso e moderazione
+      Aprire un ticket per non scordarcelo
+Idea per un open day delle comunità opensource italiana al posto del linux day primaverile, meno organizzazione
+      mattina presentazione delle comunità open italiane, tipo 20 minuti.
+      pomeriggio chat o videoriunioni aperte a tutti per comunità dove si incontrano persone da fuori
+      si aggiunge al lancio di discourse e rocketchat e ci aiuterebbe ad invitare gente e dare nuova vita a ils
+Problemi al sito linux.it
+      manca il certificato al sito
+Per quale motivo ILS o linux.it è utile ad un lug?
+      valutazione lato marketing
+
+Partecipanti:12
+
+######################################################################################## Giovedi 12 novembre 2020
+
+https://www.ils.org/ld2020-ringraziamenti
+https://www.linuxday.it/2020/
+
+https://gitlab.com/ItalianLinuxSociety/brainstorm
+https://gitlab.com/ItalianLinuxSociety/brainstorm/-/issues/10 Istanza Discourse/RocketChat
+https://gitlab.com/ItalianLinuxSociety/brainstorm/-/issues/11 Progetti online da fare insieme per coinvolgere nuove persone
+https://cryptpad.fr/pad/#/3/pad/edit/a5085a74f95ae5da8c36c888f505671b/ Come coinvolgere nuovi partecipanti nel 2020
+
+Istanza BBB per i lug per filmare senza OBS o altre cose fai da te
+
+Partecipanti: 20 *** NEW RECORD ***
+
+######################################################################################## Giovedi 8 ottobre 2020
+
+Mozilla Italia Dev Contest in cerca di promozione
+https://www.reddit.com/r/ItalyInformatica/comments/j6112h/mozilla_italia_developer_contest_in/
+Per il Linux Day servono sistemisti e presentatori
+Il primo linux day patrocinato da un ministero (Min. dell'Innovazione)
+
+######################################################################################## Giovedi 10 settembre 2020
+
+Chiacchere
+
+######################################################################################## Giovedi 6 agosto 2020
+
+CFP Linux Day 2020: al momento richiesti ed approvati 67 talk
+https://cryptpad.fr/pad/#/3/pad/edit/a5085a74f95ae5da8c36c888f505671b/ Documento scritto da Daniele Scasciafratte 
+https://www.atlantei40.it/
+
+
+######################################################################################## Giovedì 9 luglio 2020
+
+nessun aggiornamento sulla lugmap
+nessun aggiornamento lato linuxday perchè la cfp è ancora aperta
+Tema del Linux Day: argomenti riconducibili alla pandemia/quarantena
+      scuola, maker e applicazioni online come talk siamo scoperti
+      70/80 talk al momento
+Sebastiano: Progetto 42 per curare tracce DIY e Security
+Bob: verificare se sopravvivono alla CFP
+Progetto 42 propone eventuale fusione in un'unica traccia, con invito diretto delle persone alla CFP
+anche per salvare ESC
+Bob: mancano contenuti in CFP, se ne mancano anche nella parte Progetto 42 non si vede l'utilità
+Sebastiano: Coprire eventualmente anche argomenti scoperti alla fine della CFP
+Bob: Si può pensare di sì, verificare risultati CFP
+Rosario: perché affidare una traccia a Progetto 42?
+Sebastiano: ribaltando la logica e usando leva ESC riesco a muovere qualcuno in più
+Bob, Daniele: ricontattare personalmente per CFP
+Daniele: meglio una mail per aggiornamento
+Francesco Buonanno: + Francesca, FSFE: talk al LD di FSFE con argomento didattica digitale
+Presentazione in associazione con una organizzazione sovranazionale sindacato studentesco europea https://www.obessu.org/
+Sia aspetto tecnico
+Sia aspetto sociale/pratico da parte degli studenti
+Approvato come indicazioni di massima
+
+Aggiornamenti Mozilla
++ Internet Health Report: online per fare domande https://www.youtube.com/watch?v=Aa3WSDkZMBw
++ 2 repo github:
++ tracciare attività della comunità https://github.com/MozillaItalia/CommunityIssueTracker/
++ tracciare idee della comunità  https://github.com/MozillaItalia/Idee-della-comunita/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
++ Gruppo marketing: dare una mano sulla comunicazione degli eventi
++ problemi di differenze generazionali e coinvolgimento di persone nuovi e più giovani non abituate a certe meccaniche
++ Rosario: discussione su come viene portato avanti nelle varie associazione sulla comunicazione degli eventi
++ Andrea Laisa: associazione Ideaeuropa, per aiutare le associazioni ad ottenere fondi per progetti europei https://www.ideaeuropa.it/
++ Bob: provato a muovermi, forse buona idea sentirli
++ Lorenzo: possibile che sia una buona soluzione più per FSFE che per ILS
++ Lorenzo: CSV organizzano diversi corsi per aiutare le associazioni (gratis o con costi contenuti)
++ coinvolgere le persone all'interno della comunità per farli diventare operativi e attivi
++ Daniele: capire quali attività da proporre che interessano le nuove generazioni
++ Bob: una cosa è coinvolgere, una è tenere interessati
++ Raccolte di storie per coinvolgere
++ Mozilla: Mozillian of the month, post con foto e mini-bio, con meccanismi di voto e graduatoria
++ Motivare giovani e non giovani
+            + Daniele scriverà un doc su questa idea e lo girerà al resto della comunità per raccogliere idee per agosto
+
++ Andrea Laisa: Scuola e questione mail istituzionali MIUR su Office 365, Zoom, Google Classroom => dati privacy dei bambini viene lesa
++ Coinvolgere associazioni più grandi (UNICEF, Save the children, Telefono Azzurro)
++ Lorenzo: UNICEF non è associazione, ma organizzazione internazionale; Telefono Azzurro è nata diversamente
++ Andrea Rossi: terreno scivoloso, molto cauti per non essere travisati o passare per chi ha strumentalizzato il problema
++ Francesca: d'accordo
++ Meglio intervenire su associazione che si occupano di scuola e bambini
++ Bob: cosa proporre a queste associazioni? non basta chiedere di veicolare un messaggio
++ Francesca: proposte diverse per associazioni con scopi differenti
++ Lorenzo: attenzione alle priorità associative
++ Lorenzo: cercare associazioni con scopi più affini, magari su Cyberbullismo
++ Daniele: Zanshintech - https://www.zanshintech.it/ - Cyberbullismo e come gestire dati su internet
++ Andrea Rossi: iniziativa sulla scuola e la privacy per bambini - https://eticadigitale.org/
++ Daniele: invitarli per LD e prossimo incontro
++ AI Sebastiano: contattare entrambi
+
+
+Partecipanti: 8
+
+######################################################################################## Giovedì 11 giugno 2020
+
+
+1) Linux Day:
++ CFP aperta
++ attendiamo risultati della CFP per definizione macroaree e sessioni
++ Rosario lavora sul sito
++ Considerare la distribuzione degli adesivi
++ Mandare adesivi a chiunque è un limite economico
++ Invito a inviare adesivi a ILS
++ Francesco Bonanno disponibile per macchine
++ Andrea Rossi: patrocinio al Comune per affiggere locandine
++ Quali canali hanno bisogno di contatto amministrativo per pubblicizzare l'evento?
++ Bob: patrocinio serve per evitare tasse e balzelli
++ Bob: forma di promozione un po' decaduta
++ Andrea Rossi: MIUR, ministeri vari, ecc
++ Federico: vede se ci sono contatti da percorrere
++ AI Roberto Guido: domanda a MIUR, Ministero Innovazione, Beni e Attività culturali
++ Federico + Lorenzo: http://www.archeobo.arti.beniculturali.it/richieste/patrocinio_mibact.htm
++ Natura giuridica di ILS per fare coordinamento nazionale/internazionale
++ pdv giuridico
++ ETS: più lustro e più visibilità
++ Bob: Discussa da anni
++ Bob: Mancanza registro unico (Scadenza: fine giugno, probabilmente rimandata)
++ Bob: WIP
++ Bob: sezioni locali ILS (http://www.ils.org/sezionilocali) facilitazione amministrativa, rappresentare ILS sul territorio locale
++ pdv organizzativo
++ Gestione volontari
++ Gestione COVID coadiuva l'aspetto online
++ Partecipazione da diverse community
++ Opportunità di fare rete
++ Ferdinando: itWikiCon: https://meta.wikimedia.org/wiki/ItWikiCon/2020
++ 2017/2018 - conferenza per organizzare le attività di Wikimedia
++ stessa infrastruttura
++ CFP separata: https://meta.wikimedia.org/wiki/ItWikiCon/2020/Proposte
++ Wikimedia
++ OpenStreetMap
++ tutti benvenuti nella parte organizzativa
++ idea dell'infrastruttura per l'evento
++ istanza BigBlueButton
++ pubblico non accede all'istanza, solo relatori
++ condividere slide senza condivisione schermo
++ condivisione schermo: codificato in flusso video e compresso: slide poi non si leggono
++ Screencapture del monitor del presentatore > rtmp
++ verso infra GARR
++ Intervento in diretta o video registrato
++ tutto pubblicato in istanza peertube (https://joinpeertube.org/)
++ Canali più diffusi sono YouTube, FB, Twitch. Ci abbiamo pensato?
++ Rosario: Fase uno è infrastruttura libera
++ Rosario: Decentralizzazione
++ Rosario: Rocket Chat IM durante evento
++ Bob: anche 2w prima, 2w dopo per networking
++ Rosario: Canali non esclusi, ma in seconda fase
++ Rosario: Unico punto di raccolta dei video: peertube
++ Registrare tutto
++ infrastruttura non basta, dipende anche da relatore
++ problemi durante il live indipendenti dalla infra
++ Andrea Rossi: Comunicazione ufficiale su canali decentralizzati
++ darebbe messaggio non coerente
++ Rosario: campagne di marketing su principali piattaforme non sono mai state fatte
++ in dipendenza della condivisione dei volontari
++ non nasconderci, ma indirizzare
++ Marcello: per raggiungere più persone possibile, i canali non sono quelli distribuiti
++ Federico (lavora in marketing): oltre alle piattaforme condivise, necessario piano comunicazione sui Social Media più conosciuta
++ Far vedere che ha vantaggi su sistemi "di nicchia" ma qualitativi
++ condivisione da volontari: marketing di networking più efficace
++ Rosario: Quando comunicare e coordinarsi per la comunicazione?
++ Prospetto canali ILS con indicazione di massima delle date per canalizzare
++ CFP fino a fine luglio
++ inutile comunicare ad agosto
++ comunque conferma relatori
++ metà agosto: programma completo
++ verifica argomento interessante da "sponsorizzare" attivamente
++ Marcello: anche fino a metà settembre
++ cominciare blanda diffusione da metà settembre, martellare le due settimane prima
++ Lorenzo: questione COVID, gente si è fumata le ferie, quindi magari sarà più produttivo
++ comunicazione "importante" non troppo prima dell'evento
++ Bob: Quando escono i comunicati stampa? Boh
++ Rappresentazione locale dei LUG all'evento nazionale
++ canale su RocketChat regionali/provinciali
++ Bob: aumentare la partecipazione di persone normalmente non legate ai LUG
++ Ricoinvolgere Debian-it Ubuntu-it, presenti in chat merge-it?
++ potrebbero non essere interessati
+
+2) Attività FLOSS in Europa
++ FSFE Germania e Olanda: fondamentalmente indipendenti
++ Sforzo per portare FLOSS in Amministrazioni pubbliche:
++ Spagna: PAD attività: https://mypads.framapad.org/mypads/?/mypads/group/fsfe-n7m747ig/pad/view/situacion-en-espana-de-software-libre-g312lx70f
++ LUG in europa?
++ Ci sono LUG
++ organizzazione nazionale
++ Dipende dalla longevità
++ In Italia situazione anomala
++ perché più diffuso in diverse città e non solo in grandi città
++ Francia: associazioni di FLOSS anche locali
++ Seguire OSOR, per avere polso di cosa fanno in altri paesi
++ Non rispecchia al 100% iniziative locali che nascono e che possono essere interessanti
++ Tracciati bandi pubblici
++ Difficile seguire, mancanza di comunicazione anche a livello europeo
++ iorestoacasa.work: copiato da Framasoft
++ Francia: più promozione e più operatività
++ incontri delle comunità al FOSDEM il venerdì
++ interventi differenti a livello di nazione
++ Francia: più scuole
++ Germania: più business
+
+3) Piattaforma a livello nazionale/europeo per gamification del volontariato
++ Idea di Mozilla Italia
++ Organizzazione prima della piattaforma
++ Coinvolgimento nelle comunità per comunicare di più e meglio
++ Fare rete
++ Decisione di Mozilla di parlarne in questa riunione
++ LD può essere trampolino di lancio
++ Far conoscere comunità in mancanza di aggancio locale
++ Coordinamento europeo:
++ Può essere problematico, soprattutto perché manca organizzazione locale
++ LUG vicini che si fanno guerra per avere soci
++ LUG più attivi hanno spese più imponenti
++ Coagulare energie di tutti facendo economie di scala
+
+
+TODO:
++ Contattare LUG per capire se sono attivi
++ Revisionare contenuti LugMap
+
+
+Partecipanti: 19 - Nuovo RECORD
+
+######################################################################################## Giovedì 14 maggio 2020
+
+ODG: giro di presentazioni per la situazione attuale
+presenti a mezz'ora dall'inizio, 12 persone
+Valerio presenta Phabricator
+Strumento di project management per sviluppatori con diversi strumenti di comunicazione e interazione integrati (es. Kanban, Calendario, gestione task).
+Strumenti a linea di comando e API ben documentati
+Proposte di strumenti:
+     - Phabricator (usato in svariati progetti, intasato di funzioni)
+Si richiede di cominciare a fare qualcosa, si e' proposto molto durante gli scorsi incontri (che ormai sono 7 incontri) ma poca azione. 
+Andrea vede il pad come ormai difficile da usare  e Phabricator sarebbe comodo
+
+######################################################################################## Giovedì 9 aprile 2020
+
+Tema del Linux Day
+Sicuramente "influenzato" dalla pandemia
+Bob + Andrea Rossi: iscriversi alla lista preposta per il tema - https://lists.linux.it/listinfo/linuxday-idee
+Fabio Naif: segnala alcune attività con fattore comune la legalità, trasparenza e riuso in PA - https://t.me/softwareliberousoeriuso - https://www.thegoodlobby.it/comunicato-stampa/dati-gestione-emergenza-covid-19-il-governo-agisca-in-nome-della-trasparenza/
+Data: 24 ottobre 2020
+Stefania Delprete: usare LD come pubblicità per MERGE-it
+
+Bob: attività di sviluppo per ical per eventi: work in progress
+Emiliano Vavassori: non sono riuscito a contattare BrigX, me lo segno ancora per la prossima volta
+Bob: pubblicizzate sito e serate: http://online.merge-it.net/
+
+Andrea Rossi: forse avremmo bisogno di strumenti per project management per portare avanti attività
++ Bob: non abbiamo così tanti task da gestire, prematuro, ognuno dovrebbe gestirsi i suoi con gli strumenti che preferisce.
++ Bob: alcune attività confluiranno poi nel GitLab del LD se lo riguardano - https://gitlab.com/ItalianLinuxSociety/linuxday
++ Bob: Valerio usa Phabricator
++ Andrea Rossi: una presentazione potrebbe essere d'uopo <3
++ Bob: Valerio sarebbe contento - https://gitpull.it/
+
+Bob: linux.it sta ricevendo un sacco di richieste di aiuto di supporto normale - dove non dovrebbero arrivare
+
+Fabio Naif: enforcement e vigilanza su linee guida AgID - https://t.me/softwareliberousoeriuso
++ Alcuni artefatti legali creati con Carlo Piana, Marco Ciurcina e Daniele Scasciafratte - https://github.com/softwarelibero/monitoraggiocivico 
++ creare una forza coesa che possa fare attivismo civico e fare quello che non viene fatto da AgID, Ministero dell'Innovazione, Corte dei conti
++ Francesca: spunti da FSFE per emergenza CoVID e attività politiche necessarie
+- https://fsfe.org/news/nl/nl-202004.en.html
+- https://fsfe.org/news/2020/news-20200402-02.en.html
+- https://fsfe.org/news/2020/news-20200408-01.en.html
++ Bob: sarebbe meglio coinvolgere i primi interessati (cioè business che ha stesse soluzioni del sw proprietario)
++ Fabio Naif: sarebbe meglio produrre delle prime casistiche che poi vengano utilizzate per fare tam tam in PA
++ Lorenzo Losa: c'è un template della valutazione comparativa, in modo da guidare la compilazione mettendo ovviamente in evidenza requisiti a noi favorevoli?
++ Fabio Naif: ci sono dei casi di valutazione comparativa, se c'è qualcuno di buona volontà perché no
++ Fabio Naif: allegato D delle linee guida specifica metodologie di uso/riuso/ricondivisione delle modifiche
++ nessuno le rispetta, per vari motivi (strumentali, economici)
+
+Bob: opendidattica.org - risorse per le scuole - Paolo Mauri, Matteo Ruffoni, Assoprovider
++ Aggiunto di recente Luca Ferroni - https://iorestoacasa.work/ - elenco istanze jitsi. Statistiche di carico esposte con script forniti da loro
++ Showcase di cose che possono essere usate dai docenti
++ piuttosto che l'unico servizio per tutti (che richiede risorse per stare in piedi), metti in piedi la tua istanza
++ Fabio Naif: PNLug fornisce istanze gratuite di BigBlueButton alle scuole
+
+https://t.me/joinchat/BCql3Ujr3hE8dWyh7suIEQ
+
+Presenze: 18 persone RECORD ATTUALE! Le notifiche per ricordare funzionano!
+
+######################################################################################## Giovedi 12 marzo 2020
+
+https://it.wikibooks.org/wiki/Software_libero_a_scuola/Jitsi
+popolare elenco istanze Jitsi pubbliche
+
+Iniziative pubbliche per coinvolgere chi è a casa in questi giorni:
+    https://www.wikimedia.it/una-maratona-di-scrittura-per-litalia-la-comunita-di-wikipedia-si-attiva/
+
+Palinsesto videoconferenze su Jitsi
+In questo periodo le videconferenze stanno prendendo piede (smart working, didattica a distanza ...): perché non aggregare gli appuntamenti organizzati da LUG, hacklab e gruppi simili in una pagina che faccia un po' da palinsento?
+Stile Planet LUG (https://planet.linux.it/lug/) o Torino Tech Scene (https://torinotechscene.it/), ma dedicato solo alle vdc:
+    https://gitlab.com/HackLabCormano/hacklabcormano.it/-/wikis/home
+
+    Aggregazione appuntamenti online (ma anche eventi fisici, una volta chiusa la grana corona virus...)
+    promuovere uso di formati strutturati specifici per permettere aggregazione automatica
+ical
+h-event
+quattro righe strutturate aggiunte nei propri blog post
+accrocchiare un aggregatore
+
+Rendere più pubblica questa call mensile e promuoverla maggiormente
+avere un ordine del giorno/argomento della serata (modalità di esecuzione delle serate: discussione oppure riunione operativa)
+creare pagina di presentazione con le informazioni che servono
+online.merge-it.net - https://github.com/merge-it/online
+
+Emiliano Vavassori: chiedere a BrigX quale strumento usavano per raccogliere preferenze su argomenti
+
+######################################################################################## Giovedi 13 febbraio 2020
+
+ + Andrea Rossi: dopo aver condiviso idee e input, bisogna che qualcuno prenda la responsabilità di mandare avanti il lavoro di gruppo
+ + poche cose, ma partire con qualcosa di concreto
+ + Per i Linux Day il referente come solito è Roberto 
+ + Domande sui numeri riguardo la partecipazione delle attività locali
+       + Metriche per valutare l'impatto del software libero e lo stato delle libertà digitali, tipo osservatorio permanente, con rilevazioni periodiche e presentazione annuale
+          + Daniele: può essere il tema della plenaria per avere dei dati su cui fare delle valutazioni a livello nazionale per i vari eventi locali (non solo linux day)
+             + Emiliano: il classico sondaggio anonimo può andare?
+                + Roberto: è difficile perchè tanti fanno per fatti propri
+                + Lorenzo: I sondaggi sono fattibili ma non è facile scalare a livello nazionale oltre che avere un campione affidabile
+        + Le metriche andrebbero prese nei posti più di effetto, ovvero non ovunque ma mirato in posti specifici sia realtà che regioni/città/ecc
+        + Per i sondaggi dovremmo farci aiutare da qualcuno esperto anche perchè deve essere continuativo, tipo qualche università
+        + Esempio di osservatorio https://www.swg.it/osservatorio
++ Roberto Guido: riguardo il linux day ampliare le presenze per i linux day invitando personaggi al di fuori del solito, la priorità è il merge-it adesso
+      + Il sito del merge-it è migliorato ma ci sono ancora slot per dei talk, novità la mappa degli eventi durante i vari giorni
+      + Giovedì ci sarà anche EOLE un evento annuale degli avvocati linuxari, molto di nicchia e mirato
+      + I talk presenti sono talk confermati ma mancano ancora le comunicazioni e ci sono dei buchi
+      + Le tematiche della plenaria sono presenti in questo documento, rimangono da definire in modo ufficiale o in ordine
++ Rosario Antoci: per il merge-it ci sono dei task su cui possiamo aiutare?
+      + Gli sponsor non sono molti come anche se vogliono fare dei talk
+       + Storytelling su setup quotidiano di Sviluppatori/Sistemisti/Figure di vario genere ===> https://usesthis.com/  (ad esempio Stefano Zacchiroli)
++ Stefania Delprete: riguardo le possibilità in azienda sull'usare software libero, se obbligatorio ecc
+      + Definire profili riguardo le varie realtà PA/studente/ecc cosa utilizza, perchè in base ai profili si può fare uno studio diverso e non generico come domande
+      + Creare una guida di swap con esempi comuni di utilizzo software proprietario a sowftare libero, testare con gli utenti quali siano i cambi in cui ci sono più resistenze e perché, così da avere consapevolezza e fare eventi/materiale per aiutare sugli swap al software libero più difficili (ad esempio cambio linguaggio programmazione / distro in azienda), e eventi in cui tutti fanno gli swap reputati più semplici (ad esempio cambio browser, distro)
+      + Ricordarsi di mettere gli orari nel sito de MERGE-it 
++ Lorenzo: se le metriche servono per quantificare le realtà o se vogliamo fare altro, oltre che non devono essere generiche ma anche chiare
+      + Ci può girare quello che è stato fatto per wikimedia, come è stato veicolato. Un campione scelto fra i 18 e 70 anni, aree geografica, con accesso al computer, ci si è rivolto ad aziende dedicate ma non online.
+          + Trovare il pubblico non è facile che sia valido come dati, il costo è alto ma è possibile fare altre cose a costo zero
++ Emiliano: fare un sondaggio cartaceo per il merge-it nei giorni non della comunità, ma i soldi per tenere su tutta questa baracca
+      + Nelle pa qual'è la percentuale di certi dispositivi rispetto ad altri ad esempio
++ Vichingo: la questione è più complessa riguardo la tecnologia ma più che altro sulla linea tra aziende e open source
++ Daniele: 
+    + Fare dei sondaggi con domande aperte riguardo se usano open source, che problemi hanno ecc non sulle tecnologie specifiche
+    + Dobbiamo discutere su dei dati reali (per avere un riferimento) e avere un piano nel tempo su cui intervenire su queste informazioni
+    + Quale sarà il programma della prossima riunione?
+    
+
+Jitsi da provare dopo: https://jitsi.madbob.org/prova-sgdsc
+
+
+Presenze: 13 persone RECORD ATTUALE! Le notifiche per ricordare funzionano!
+
+######################################################################################## Giovedi 09 gennaio 2020
+
+Riassunto news dal mese scorso:
+    Update Repubblica Digitale
+    Piano Nazionale Innovazione
+    FOSDEM Extended
+
+Mancanza di coordinamento in organizzazione Linux Day (tutti reinventano sempre tutto daccapo):
+    "Risottate" distribuite nel resto di Italia, per incontrarsi di persona su base macro-regionale
+    Far circolare soggetti rilevanti della community canonica in giro per l'Italia (a spese di chi? ILS)
+    Invitare soggetti esterni alla community canonica presso i Linux Day maggiori:
+        https://en.wikipedia.org/wiki/Francesca_Bria
+        https://it.wikipedia.org/wiki/Antonello_Soro
+        https://en.wikipedia.org/wiki/Shoshana_Zuboff
+        http://www.marcogui.it/
+        https://ec.europa.eu/digital-single-market/en/luciano-floridi
+        https://ec.europa.eu/digital-single-market/en/giuseppe-stefano-quintarelli
+
+Limiti generali della community:
+    interesse nei confronti del software libero di tipo tecnico piu' che etico
+    mancato coinvolgimento delle istituzioni
+    forse coinvolgere i funzionari (ufficio scolastico regionale, camera di commercio...) e' piu' utile che coinvolgere la politica (le giunte comunali cambiano ogni 5 anni)
+    organizzazione dei propri eventi complessa, "parassitare" eventi altrui (meetup tecnici, conferenze) proponendo contenuti affini e veicolando il messaggio desiderato
+    avere comunque un punto fisso per coordinare trasversalmente un proprio gruppo
+    problema nel capitalizzare il pubblico meno interessato agli aspetti etici: vengono a seguire la serata dedicata a Python e spariscono
+
+######################################################################################## Giovedi 12 dicembre 2019
+
+Link telegram per merge-it 2020: https://t.me/joinchat/BCql3Ujr3hE8dWyh7suIEQ
+
+- regolarizzazione della call (adesso ne facciamo una, ma l'intento comune e' renderlo un appuntamento piu' o meno fisso)
+- canali, strategie e metodi per agevolare la comunicazione tra i diversi soggetti
+* Discussione su nuovi strumenti per comunicare
+  * Suggerito l'uso di Discourse che sembra andare bene
+  * Lo strumento non è fondamentale senza un piano di uso
+* Volontà di partecipare e l'utilizzo può essere un problema
+  * Senza community management il progetto potrebbe morire
+* Qual è la funzione di questi canali di comunicazioni
+  * Le mailing list dei lug, 2 gruppi telegram ma non sono istituzionali
+  * Per partecipare e parlare con gli associati oltre che coinvolgere di più
+  * A prescindere dal canale se nessuno è attivo per mantenerle, vanno a morire
+  * Vedendo altre realtà similari come ESC/IHC/HackInBo organizzarsi nella comunicazione porta dei frutti
+* PlanetLug è tornato in vita
+* Problema del ricambio generazionale
+  * Condivisione delle esperienze tra i vari lug 
+Plenaria merge-it 2020 - https://merge-it.net/
+* Richiesta di una presenza FSFE al merge-it
+* Il merge richiede la lingua italiana
+* riunione plenaria sabato 4 aprile nel pomeriggio
+* Definire elenco argomenti/ordine del giorno per la plenari
