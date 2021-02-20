@@ -6,16 +6,18 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<script>
-			var cta = document.querySelectorAll('.fa-telegram');
-			for (var i = 0; i < cta.length; i++) {
-				var urlpartsplit = 'hat';
-				var urlpart = 'joinc' + urlpartsplit;
-				var urlpartagain = 't.';
-				var urlpartanother = 'me/';
-				var id = 'BCql3Ujr3h';
-				var anotherid = 'E8dWyh7suIEQ';
-				cta[i].href = 'https://' + urlpartagain + urlpartanother + urlpart + '/' + anotherid + '-' + id;
-			}
+			document.addEventListener('DOMContentLoaded', (event) => {
+				var cta = document.querySelectorAll('.fa-telegram');
+				for (var i = 0; i < cta.length; i++) {
+					var urlpartsplit = 'hat';
+					var urlpart = 'joinc' + urlpartsplit;
+					var urlpartagain = 't.';
+					var urlpartanother = 'me/';
+					var id = 'BCql3Ujr3h';
+					var anotherid = 'E8dWyh7suIEQ';
+					cta[i].href = 'https://' + urlpartagain + urlpartanother + urlpart + '/' + anotherid + '-' + id;
+				}
+			});
 		</script>
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
